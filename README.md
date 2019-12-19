@@ -34,6 +34,16 @@ A curated list of awesome open source workflow engines
 
 ## BPM Suite
 
+
+* [Business process management (BPM)](https://en.wikipedia.org/wiki/Business_process_management)
+```
+Business process management (BPM) is a discipline in operations management in which people use various
+methods to discover, model, analyze, measure, improve, optimize, and automate business processes.[1][2]
+Any combination of methods used to manage a company's business processes is BPM.[3] Processes can be 
+structured and repeatable or unstructured and variable. Though not required, enabling technologies are 
+often used with BPM.
+```
+
 * [Activiti](https://www.activiti.org/) [![Stars](https://img.shields.io/github/stars/Activiti/Activiti.svg)](https://github.com/Activiti/Activiti) - Activiti is a leading lightweight, java-centric open-source BPMN engine supporting real-world process automation needs.
 * [Activiti Cloud](https://activiti.gitbooks.io/activiti-7-developers-guide/content/introduction.html) - is now the new generation of business automation platform offering a set of cloud native building blocks designed to run on distributed infrastructures.
 * [Flowable](https://github.com/flowable/flowable-engine) [![Stars](https://img.shields.io/github/stars/flowable/flowable-engine.svg)](https://github.com/flowable/flowable-engine) - The Flowable project provides a core set of open source business process engines that are compact and highly efficient. They provide a workflow and Business Process Management (BPM) platform for developers, system admins and business users.
